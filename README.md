@@ -1,4 +1,6 @@
 # 360VR-Unity-Sample
+## Supported devices
+Meta Quest 1/2/pro
 
 ## External tool
 Following tools are installed into the project.<br>
